@@ -1,4 +1,6 @@
-# kubernetes-study
+# 쿠버네티스 인 액션 스터디
+
+<img src="https://user-images.githubusercontent.com/7943694/95012227-ecde6100-0671-11eb-9bdc-baceafe10830.png" width="250"/>
 
 | Chapter | Title                                                          |    Done   |
 |:-------:|----------------------------------------------------------------|:---------:|
